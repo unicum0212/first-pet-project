@@ -1,0 +1,8 @@
+requirements.docx
+project-scheme.png
+scheme-of-actions.txt
+terruser-creds.txt
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform
+terraform/.terraform.lock.hcl
