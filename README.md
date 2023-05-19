@@ -1,4 +1,4 @@
-# low-level-project
+# my first pet project
 URL: https://latte-cafe.devdimaops.tech/
 
 Tools:
